@@ -1,1 +1,1 @@
-# CPU-SCHEDULING-ALGORITHM-VISUALIZER
+# Cpu-Scheduling-algo
